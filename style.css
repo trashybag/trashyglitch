@@ -1,0 +1,42 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Gamja Flower', cursive;
+  margin: 2em;
+  color:#fff;
+  background:#1c1c1c;
+}
+
+h1 {
+  font-style: italic;
+  color: #BB80E0;
+  margin-bottom:-20px;
+  margin-top:-6px;
+}
+
+a {
+  color:#fff;
+  font-size:21px;
+  text-decoration:none;
+  transition:.3s;
+}
+
+a:hover {
+ color:#BB80E0;
+  transition:.3s;
+}
+
+.avatar {
+  width:150px;
+  height:auto;
+  border-radius:2px;
+  border:1px dotted #BB80E0;
+}
+
+.content {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  margin-top:150px;
+  width:80%;
+}
