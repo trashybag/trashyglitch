@@ -1,4 +1,4 @@
-   wierd blog
+   wierd site
 =================
 
 idk what this is about.
